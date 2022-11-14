@@ -11708,3 +11708,11 @@ body {
   
 }
 }
+
+@media (min-width: 750px){
+  .certificados{
+    width: auto;
+    height: 500px;
+    margin: 30px;
+  }
+}
